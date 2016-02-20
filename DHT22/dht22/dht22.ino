@@ -1,5 +1,5 @@
 #include <DHT.h> // DHT22 lib
-#define DHT22_PIN 11 // DHT22 data input
+#define DHT22_PIN 2 // DHT22 data input
 
 DHT dht;
 
